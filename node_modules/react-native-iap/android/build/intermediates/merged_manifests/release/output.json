@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkData":{"type":"MAIN","splits":[],"versionCode":3,"versionName":"3.0.0","enabled":true,"outputFile":"react-native-iap-release.aar","fullName":"release","baseName":"release"},"path":"../../library_manifest/release/AndroidManifest.xml","properties":{"packageId":"com.dooboolab.RNIap","split":""}}]
